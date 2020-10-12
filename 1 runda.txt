@@ -1,0 +1,196 @@
+ [2]: WAIT waiting for mayor init
+ [5]: WAIT waiting for mayor init
+ [6]: WAIT waiting for mayor init
+ [7]: WAIT waiting for mayor init
+ [1]: WAIT waiting for mayor init
+ [4]: WAIT waiting for mayor init
+ [3]: WAIT waiting for mayor init
+ [0]: REST Generated a warehouse with 58 comissions, 5 pins, 22 poison
+ [3]: READ_COM starting to read comissions
+ [6]: READ_COM starting to read comissions
+ [7]: READ_COM starting to read comissions
+ [4]: READ_COM starting to read comissions
+ [1]: READ_COM starting to read comissions
+ [2]: READ_COM starting to read comissions
+ [5]: READ_COM starting to read comissions
+ [3]: WAIT_PIN asking for pin for comission 0
+ [3]: WAIT_POISON asking for poison for comission 0 with 13 hamsters
+ [7]: WAIT_PIN asking for pin for comission 19
+ [4]: WAIT_PIN asking for pin for comission 11
+ [1]: WAIT_PIN asking for pin for comission 3
+ [2]: WAIT_PIN asking for pin for comission 5
+ [5]: WAIT_PIN asking for pin for comission 13
+ [6]: WAIT_PIN asking for pin for comission 17
+ [4]: WAIT_POISON asking for poison for comission 11 with 5 hamsters
+ [1]: WAIT_POISON asking for poison for comission 3 with 14 hamsters
+ [5]: WAIT_POISON asking for poison for comission 13 with 14 hamsters
+ [3]: READ_COM finished comission 0
+ [2]: WAIT_POISON asking for poison for comission 5 with 13 hamsters
+ [4]: READ_COM finished comission 11
+ [6]: WAIT_POISON asking for poison for comission 17 with 10 hamsters
+ [3]: WAIT_PIN asking for pin for comission 7
+ [1]: READ_COM finished comission 3
+ [4]: WAIT_PIN asking for pin for comission 22
+ [7]: WAIT_POISON asking for poison for comission 19 with 9 hamsters
+ [3]: WAIT_POISON asking for poison for comission 7 with 14 hamsters
+ [1]: WAIT_PIN asking for pin for comission 6
+ [2]: READ_COM finished comission 5
+ [4]: WAIT_POISON asking for poison for comission 22 with 9 hamsters
+ [2]: WAIT_PIN asking for pin for comission 10
+ [5]: READ_COM finished comission 13
+ [6]: READ_COM finished comission 17
+ [5]: WAIT_PIN asking for pin for comission 26
+ [7]: READ_COM finished comission 19
+ [1]: WAIT_POISON asking for poison for comission 6 with 8 hamsters
+ [7]: WAIT_PIN asking for pin for comission 38
+ [6]: WAIT_PIN asking for pin for comission 34
+ [2]: WAIT_POISON asking for poison for comission 10 with 6 hamsters
+ [3]: READ_COM finished comission 7
+ [5]: WAIT_POISON asking for poison for comission 26 with 8 hamsters
+ [3]: WAIT_PIN asking for pin for comission 14
+ [6]: WAIT_POISON asking for poison for comission 34 with 11 hamsters
+ [4]: READ_COM finished comission 22
+ [1]: READ_COM finished comission 6
+ [7]: WAIT_POISON asking for poison for comission 38 with 12 hamsters
+ [4]: WAIT_PIN asking for pin for comission 33
+ [3]: WAIT_POISON asking for poison for comission 14 with 7 hamsters
+ [2]: READ_COM finished comission 10
+ [1]: WAIT_PIN asking for pin for comission 9
+ [5]: READ_COM finished comission 26
+ [4]: WAIT_POISON asking for poison for comission 33 with 9 hamsters
+ [2]: WAIT_PIN asking for pin for comission 15
+ [6]: READ_COM finished comission 34
+ [5]: WAIT_PIN asking for pin for comission 39
+ [1]: WAIT_POISON asking for poison for comission 9 with 11 hamsters
+ [6]: WAIT_PIN asking for pin for comission 51
+ [7]: READ_COM finished comission 38
+ [2]: WAIT_POISON asking for poison for comission 15 with 13 hamsters
+ [3]: READ_COM finished comission 14
+ [5]: WAIT_POISON asking for poison for comission 39 with 14 hamsters
+ [7]: WAIT_PIN asking for pin for comission 57
+ [3]: WAIT_PIN asking for pin for comission 21
+ [6]: WAIT_POISON asking for poison for comission 51 with 8 hamsters
+ [4]: READ_COM finished comission 33
+ [1]: READ_COM finished comission 9
+ [7]: WAIT_POISON asking for poison for comission 57 with 5 hamsters
+ [4]: WAIT_PIN asking for pin for comission 44
+ [3]: WAIT_POISON asking for poison for comission 21 with 7 hamsters
+ [1]: WAIT_PIN asking for pin for comission 12
+ [2]: READ_COM finished comission 15
+ [4]: WAIT_POISON asking for poison for comission 44 with 5 hamsters
+ [2]: WAIT_PIN asking for pin for comission 20
+ [6]: READ_COM finished comission 51
+ [5]: READ_COM finished comission 39
+ [5]: WAIT_PIN asking for pin for comission 52
+ [1]: WAIT_POISON asking for poison for comission 12 with 13 hamsters
+ [3]: READ_COM finished comission 21
+ [2]: WAIT_POISON asking for poison for comission 20 with 7 hamsters
+ [4]: READ_COM finished comission 44
+ [7]: READ_COM finished comission 57
+ [6]: WAIT_PIN asking for pin for comission 27
+ [3]: WAIT_PIN asking for pin for comission 28
+ [6]: WAIT_POISON asking for poison for comission 27 with 12 hamsters
+ [5]: WAIT_POISON asking for poison for comission 52 with 14 hamsters
+ [4]: WAIT_PIN asking for pin for comission 55
+ [3]: WAIT_POISON asking for poison for comission 28 with 12 hamsters
+ [7]: WAIT_PIN asking for pin for comission 18
+ [2]: READ_COM finished comission 20
+ [1]: READ_COM finished comission 12
+ [4]: WAIT_POISON asking for poison for comission 55 with 14 hamsters
+ [2]: WAIT_PIN asking for pin for comission 25
+ [6]: READ_COM finished comission 27
+ [7]: WAIT_POISON asking for poison for comission 18 with 13 hamsters
+ [2]: WAIT_POISON asking for poison for comission 25 with 11 hamsters
+ [5]: READ_COM finished comission 52
+ [1]: WAIT_PIN asking for pin for comission 24
+ [3]: READ_COM finished comission 28
+ [1]: WAIT_POISON asking for poison for comission 24 with 14 hamsters
+ [3]: WAIT_PIN asking for pin for comission 35
+ [4]: READ_COM finished comission 55
+ [6]: WAIT_PIN asking for pin for comission 37
+ [3]: WAIT_POISON asking for poison for comission 35 with 13 hamsters
+ [6]: WAIT_POISON asking for poison for comission 37 with 14 hamsters
+ [4]: WAIT_PIN asking for pin for comission 8
+ [7]: READ_COM finished comission 18
+ [5]: WAIT_PIN asking for pin for comission 46
+ [4]: WAIT_POISON asking for poison for comission 8 with 12 hamsters
+ [2]: READ_COM finished comission 25
+ [7]: WAIT_PIN asking for pin for comission 56
+ [5]: WAIT_POISON asking for poison for comission 46 with 11 hamsters
+ [2]: WAIT_PIN asking for pin for comission 30
+ [1]: READ_COM finished comission 24
+ [3]: READ_COM finished comission 35
+ [7]: WAIT_POISON asking for poison for comission 56 with 13 hamsters
+ [2]: WAIT_POISON asking for poison for comission 30 with 10 hamsters
+ [3]: WAIT_PIN asking for pin for comission 42
+ [6]: READ_COM finished comission 37
+ [3]: WAIT_POISON asking for poison for comission 42 with 6 hamsters
+ [6]: WAIT_PIN asking for pin for comission 54
+ [1]: WAIT_PIN asking for pin for comission 36
+ [4]: READ_COM finished comission 8
+ [6]: WAIT_POISON asking for poison for comission 54 with 12 hamsters
+ [5]: READ_COM finished comission 46
+ [1]: WAIT_POISON asking for poison for comission 36 with 7 hamsters
+ [4]: WAIT_PIN asking for pin for comission 41
+ [5]: WAIT_PIN asking for pin for comission 1
+ [7]: READ_COM finished comission 56
+ [4]: WAIT_POISON asking for poison for comission 41 with 6 hamsters
+ [2]: READ_COM finished comission 30
+ [3]: READ_COM finished comission 42
+ [5]: WAIT_POISON asking for poison for comission 1 with 14 hamsters
+ [6]: READ_COM finished comission 54
+ [3]: WAIT_PIN asking for pin for comission 49
+ [2]: WAIT_PIN asking for pin for comission 40
+ [3]: WAIT_POISON asking for poison for comission 49 with 10 hamsters
+ [1]: READ_COM finished comission 36
+ [7]: WAIT_PIN asking for pin for comission 16
+ [2]: WAIT_POISON asking for poison for comission 40 with 12 hamsters
+ [4]: READ_COM finished comission 41
+ [7]: WAIT_POISON asking for poison for comission 16 with 11 hamsters
+ [5]: READ_COM finished comission 1
+ [6]: WAIT_PIN asking for pin for comission 47
+ [6]: WAIT_POISON asking for poison for comission 47 with 13 hamsters
+ [3]: READ_COM finished comission 49
+ [1]: WAIT_PIN asking for pin for comission 45
+ [2]: READ_COM finished comission 40
+ [1]: WAIT_POISON asking for poison for comission 45 with 8 hamsters
+ [7]: READ_COM finished comission 16
+ [2]: WAIT_PIN asking for pin for comission 50
+ [2]: WAIT_POISON asking for poison for comission 50 with 10 hamsters
+ [6]: READ_COM finished comission 47
+ [5]: WAIT_PIN asking for pin for comission 53
+ [5]: WAIT_POISON asking for poison for comission 53 with 6 hamsters
+ [1]: READ_COM finished comission 45
+ [4]: WAIT_PIN asking for pin for comission 2
+ [4]: WAIT_POISON asking for poison for comission 2 with 11 hamsters
+ [2]: READ_COM finished comission 50
+ [1]: WAIT_PIN asking for pin for comission 48
+ [6]: WAIT_PIN asking for pin for comission 23
+ [1]: WAIT_POISON asking for poison for comission 48 with 13 hamsters
+ [6]: WAIT_POISON asking for poison for comission 23 with 9 hamsters
+ [5]: READ_COM finished comission 53
+ [4]: READ_COM finished comission 2
+ [1]: READ_COM finished comission 48
+ [6]: READ_COM finished comission 23
+ [2]: WAIT_PIN asking for pin for comission 32
+ [2]: WAIT_POISON asking for poison for comission 32 with 9 hamsters
+ [2]: READ_COM finished comission 32
+ [3]: WAIT_PIN asking for pin for comission 31
+ [3]: WAIT_POISON asking for poison for comission 31 with 12 hamsters
+ [4]: WAIT_PIN asking for pin for comission 43
+ [4]: WAIT_POISON asking for poison for comission 43 with 13 hamsters
+ [3]: READ_COM finished comission 31
+ [4]: READ_COM finished comission 43
+ [2]: WAIT_PIN asking for pin for comission 4
+ [2]: WAIT_POISON asking for poison for comission 4 with 6 hamsters
+ [7]: WAIT_PIN asking for pin for comission 29
+ [7]: WAIT_POISON asking for poison for comission 29 with 8 hamsters
+ [2]: READ_COM finished comission 4
+ [7]: READ_COM finished comission 29
+ [1]: WAIT waiting for new comissions
+ [4]: WAIT waiting for new comissions
+ [5]: WAIT waiting for new comissions
+ [6]: WAIT waiting for new comissions
+ [7]: WAIT waiting for new comissions
+ [3]: WAIT waiting for new comissions
+ [2]: WAIT waiting for new comissions
